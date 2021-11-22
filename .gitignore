@@ -1,0 +1,5 @@
+.vscode
+imgui.ini
+tmp/
+nohup.out
+build/
